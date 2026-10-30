@@ -1,7 +1,7 @@
 {
-  "version": "1.4.0",
+  "version": "1.4.1",
   "date": "2026-10-30",
-  "notes": "PC 端支持投屏码连接（输入电视上的码自动局域网查找匹配）；TV 端原生监听 12580（无需 iptables）；多网卡自适应扫描",
+  "notes": "投屏码改为 4 位会议号；客户端输入框改为可编辑下拉框（扫描自动填入发现的投屏码并选中第一个）；投屏码/IP 双模式输入",
   "files": {
     "pc": "pc/flashcast-go.exe",
     "tv": "apk/flashcast-tv.apk",
