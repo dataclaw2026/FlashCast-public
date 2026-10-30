@@ -1,7 +1,7 @@
 {
-  "version": "1.4.7",
+  "version": "1.4.8",
   "date": "2026-10-30",
-  "notes": "PC 版权行可点击跳转 Gitee；PC 程序文件图标补上；TV 首行显示 IP+本地版本号",
+  "notes": "启动自动查找并默认显示投屏码；隐藏编码分辨率/帧率/码率行（内部默认 1280x720/30/4Mbps），界面更紧凑",
   "files": {
     "pc": "pc/flashcast-go.exe",
     "tv": "apk/flashcast-tv.apk",
