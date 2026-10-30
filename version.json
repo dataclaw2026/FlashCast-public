@@ -1,7 +1,7 @@
 {
-  "version": "1.4.5",
+  "version": "1.4.6",
   "date": "2026-10-30",
-  "notes": "修复点「配置」闪退（ShellExecuteW 声明在错误 DLL）；日志窗折叠；字体统一",
+  "notes": "默认接收端地址更新为 192.168.100.204；网段自适应",
   "files": {
     "pc": "pc/flashcast-go.exe",
     "tv": "apk/flashcast-tv.apk",
