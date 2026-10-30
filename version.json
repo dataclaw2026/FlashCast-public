@@ -1,7 +1,7 @@
 {
-  "version": "1.4.3",
+  "version": "1.4.4",
   "date": "2026-10-30",
-  "notes": "投屏结束后懒检测并提示升级（Gitee 镜像）；底栏同时展示本地与远端版本；TV 端版本号跟随本机 IP 展示",
+  "notes": "日志窗默认收起（标题栏图标展开/收起）；界面字体统一；日志文案精简通俗；管理页下载全转 Gitee",
   "files": {
     "pc": "pc/flashcast-go.exe",
     "tv": "apk/flashcast-tv.apk",
