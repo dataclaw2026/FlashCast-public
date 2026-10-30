@@ -1,7 +1,7 @@
 {
-  "version": "1.4.11",
+  "version": "1.5.2",
   "date": "2026-10-30",
-  "notes": "界面排版与文案整体优化：标签精简、行距网格对齐、日志区加高、提示语重写",
+  "notes": "版本号改满十进位规则后的首版；界面排版与文案优化（清晰度档位合一、日志区加高）；TV 首行 IP+版本",
   "files": {
     "pc": "pc/flashcast-go.exe",
     "tv": "apk/flashcast-tv.apk",
