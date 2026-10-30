@@ -1,7 +1,7 @@
 {
-  "version": "1.4.6",
+  "version": "1.4.7",
   "date": "2026-10-30",
-  "notes": "默认接收端地址更新为 192.168.100.204；网段自适应",
+  "notes": "PC 版权行可点击跳转 Gitee；PC 程序文件图标补上；TV 首行显示 IP+本地版本号",
   "files": {
     "pc": "pc/flashcast-go.exe",
     "tv": "apk/flashcast-tv.apk",
