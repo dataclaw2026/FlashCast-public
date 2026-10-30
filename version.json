@@ -1,7 +1,7 @@
 {
-  "version": "1.4.4",
+  "version": "1.4.5",
   "date": "2026-10-30",
-  "notes": "日志窗默认收起（标题栏图标展开/收起）；界面字体统一；日志文案精简通俗；管理页下载全转 Gitee",
+  "notes": "修复点「配置」闪退（ShellExecuteW 声明在错误 DLL）；日志窗折叠；字体统一",
   "files": {
     "pc": "pc/flashcast-go.exe",
     "tv": "apk/flashcast-tv.apk",
