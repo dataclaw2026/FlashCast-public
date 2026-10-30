@@ -1,7 +1,7 @@
 {
-  "version": "1.4.2",
+  "version": "1.4.3",
   "date": "2026-10-30",
-  "notes": "PC 端全新排版（统一网格/字体/控件尺寸，修复底栏版权文字被裁剪）；全面去除厂商品牌字样，统一 FlashCast 命名（含包名/文件名）",
+  "notes": "投屏结束后懒检测并提示升级（Gitee 镜像）；底栏同时展示本地与远端版本；TV 端版本号跟随本机 IP 展示",
   "files": {
     "pc": "pc/flashcast-go.exe",
     "tv": "apk/flashcast-tv.apk",
