@@ -1,7 +1,7 @@
 {
-  "version": "1.5.10",
-  "date": "2026-11-02",
-  "notes": "Gitee 升级后台迁到干净 slug flash-cast-public；三端 Gitee 升级 URL 改指向 flash-cast-public；三端版本号统一 1.5.10（手机 10010 / TV 10040）",
+  "version": "1.5.11",
+  "date": "2026-11-03",
+  "notes": "手机投电视黑屏修复（csd 双起始码 + TV 端解码器矩阵自愈）；PC 窗口投屏改屏幕区域采集（铺满/DPI/视频窗口三修）+ 窗口关闭自动停止；窗口模式只传目标进程声音（进程级音频回环）；手机发现列表显示真实投屏码；管理页下载地址改 Gitee；修复投屏抢占时接收端偶发崩溃",
   "files": {
     "pc": "FlashCastPC.exe",
     "tv": "FlashCastTV.apk",
