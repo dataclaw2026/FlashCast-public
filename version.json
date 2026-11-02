@@ -1,7 +1,7 @@
 {
-  "version": "1.5.9",
+  "version": "1.5.10",
   "date": "2026-11-02",
-  "notes": "三端版权申明指向 GitHub（Gitee 仅作升级后台）；三端下载/源链接改 GitHub Release；三端版本号统一 1.5.9（手机 10009 / TV 10039）",
+  "notes": "Gitee 升级后台迁到干净 slug flashcast-upgrade；三端 Gitee 升级 URL 改指向 flashcast-upgrade；三端版本号统一 1.5.10（手机 10010 / TV 10040）",
   "files": {
     "pc": "FlashCastPC.exe",
     "tv": "FlashCastTV.apk",
