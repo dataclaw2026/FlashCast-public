@@ -1,0 +1,7 @@
+# distribution mirror: binaries ship ONLY as GitHub Release assets,
+# never in the git tree (keep the repo lightweight).
+*.exe
+*.apk
+*.zip
+apk/
+pc/
