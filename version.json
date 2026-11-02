@@ -1,7 +1,7 @@
 {
   "version": "1.5.10",
   "date": "2026-11-02",
-  "notes": "Gitee 升级后台迁到干净 slug flashcast-upgrade；三端 Gitee 升级 URL 改指向 flashcast-upgrade；三端版本号统一 1.5.10（手机 10010 / TV 10040）",
+  "notes": "Gitee 升级后台迁到干净 slug flash-cast-public；三端 Gitee 升级 URL 改指向 flash-cast-public；三端版本号统一 1.5.10（手机 10010 / TV 10040）",
   "files": {
     "pc": "FlashCastPC.exe",
     "tv": "FlashCastTV.apk",
